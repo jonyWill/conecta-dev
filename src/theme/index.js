@@ -41,6 +41,11 @@ const  theme = createMuiTheme({
       fontSize:14,
       letterSpacing: '-0.05px'
     },
+    h6:{
+      fontWeight:500,
+      fontSize:12,
+      letterSpacing: '-0.05px'
+    },
   }
 });
 export default theme;
